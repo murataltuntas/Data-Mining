@@ -1,0 +1,14 @@
+<=30  	high  	no  	fair  		60	no
+<=30  	high  	no  	excellent  	70	no
+31…40  	high  	no  	fair  		80	yes
+>40  	medium  no  	fair  		90	yes
+>40  	low  	yes  	fair  		65	yes
+>40  	low  	yes  	excellent  	75	no
+31…40  	low  	yes  	excellent  	85	yes
+<=30  	medium  no  	fair  		95	no
+<=30  	low  	yes  	fair  		55	yes
+>40  	medium  yes  	fair  		68	yes
+<=30  	medium  yes  	excellent  	78	yes
+31…40  	medium  no  	excellent  	88	yes
+31…40  	high  	yes  	fair  		82	yes
+>40  	medium  no  	excellent  	72	no
